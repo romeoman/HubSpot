@@ -1,6 +1,3 @@
-//
-
-
 const axios = require('axios');
 const hubspot = require('@hubspot/api-client');
 
